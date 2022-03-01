@@ -1,7 +1,7 @@
 Code for experiment 4.1 of the paper.
 
 ## Requirements
-torch, numpy, wandb, matplotlib
+pennylane, torch, numpy, wandb, matplotlib
 
 ## Usage
 ```
